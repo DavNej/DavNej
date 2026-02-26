@@ -1,16 +1,23 @@
-## Hi there 👋
+# Senior Fullstack Engineer – AI Systems & Web3 Platforms
 
-<!--
-**DavNej/DavNej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
 
-Here are some ideas to get you started:
+I build and stabilize production-grade AI and blockchain systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+
+- TypeScript / React / Next.js
+- NestJS / PostgreSQL
+- LLM & RAG systems
+- Smart contract integrations (EVM)
+- Async architectures & workers
+
+## Selected Work
+
+- VeChain – Public Block Explorer
+- Tengo – AI Tender SaaS (RAG refactoring)
+- Heuritech – AI iteration tooling
+
+## Currently
+
+Open to freelance collaborations in Switzerland or remote.
